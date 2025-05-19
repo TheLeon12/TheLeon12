@@ -9,7 +9,7 @@ Desarrollador de software con experiencia en backend (C#, PHP) y administración
 
 **🔧 Lenguajes:**  
 - JavaScript (Avanzado) | PHP (Avanzado)  
-- C# (Intermedio) | TypeScript (Básico) | Python (Básico)  
+- C# (Intermedio) | Python (Básico)  
 - ASP.NET (Intermedio)  
 
 **🗃️ Bases de Datos:**  
