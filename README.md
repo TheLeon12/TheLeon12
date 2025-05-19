@@ -1,4 +1,4 @@
-# 👨💻 Alexander Marizan S. | Desarrollador Multiplataforma
+# 💻 Alexander Marizan S. | Desarrollador Multiplataforma
 
 **💡 Acerca de mí**  
 Desarrollador de software con experiencia en backend (C#, PHP) y administración de bases de datos (SQL Server, MySQL, MongoDB). Apasionado por crear soluciones escalables, con fuerte atención al detalle y capacidad para trabajar en equipo bajo presión. En constante aprendizaje de nuevas tecnologías.
