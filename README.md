@@ -1,70 +1,58 @@
-# 👋 Hola, soy Alexander Marizan S
+# 👨💻 Alexander Marizan S. | Desarrollador Multiplataforma
 
-### 🚀 Desarrollador de Aplicaciones Multiplataforma
-
-Apasionado por el desarrollo de software con habilidades en bases de datos, desarrollo web y programación multiplataforma. Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.
-
----
-
-## 🔧 Habilidades Técnicas
-
-**🛢️ Bases de Datos:**
-- Microsoft SQL Server
-- MySQL/XAMPP
-- Consultas SQL
-
-**💻 Lenguajes de Programación:**
-- PHP (Intermedio)
-- JavaScript (Intermedio)
-- Python (Básico)
-- C# (Básico)
-- TypeScript (Básico)
-
-**🌐 Desarrollo Web:**
-- HTML
-- CSS
-
-**🛠️ Herramientas:**
-- Visual Studio Code
-- Visual Studio
-- Docker
-- Microsoft Office
+**💡 Acerca de mí**  
+Desarrollador de software con experiencia en backend (C#, PHP) y administración de bases de datos (SQL Server, MySQL, MongoDB). Apasionado por crear soluciones escalables, con fuerte atención al detalle y capacidad para trabajar en equipo bajo presión. En constante aprendizaje de nuevas tecnologías.
 
 ---
 
-## 🌟 Habilidades Blandas
+## 🛠️ Stack Tecnológico
 
-- Comunicación efectiva
-- Trabajo en equipo
-- Resolución de problemas
-- Adaptabilidad
-- Gestión del tiempo
-- Atención al detalle
+**🔧 Lenguajes:**  
+- JavaScript (Avanzado) | PHP (Avanzado)  
+- C# (Intermedio) | TypeScript (Básico) | Python (Básico)  
+- ASP.NET (Intermedio)  
+
+**🗃️ Bases de Datos:**  
+- **SQL:** Microsoft SQL Server, MySQL  
+- **NoSQL:** MongoDB  
+
+**⚙️ Herramientas:**  
+- Visual Studio Code | Visual Studio  
+- Docker | GitHub  
 
 ---
 
-## 📚 Educación
+## 💼 Experiencia Relevante
 
-**Pontificia Universidad Católica Madre Maestra**  
-📖 Técnico en Desarrollo de aplicaciones multiplataformas  
-📅 Cursando el cuarto cuatrimestre  
+**SUPLITECMO SRL** *(2024-2025)*  
+- Desarrollo backend con C# para múltiples proyectos  
+- Administración y optimización de bases de datos SQL Server  
+
+---
+
+## 🎓 Formación  
+**Pontificia Universidad Católica Madre y Maestra**  
+📌 Técnico en Desarrollo de Aplicaciones Multiplataforma *(Cursando 4to cuatrimestre)*  
 
 **Liceo Técnico Manuel Del Cabral**  
-📖 Técnico en Desarrollo y Administración de Aplicaciones Informáticas  
-📅 2023 (Graduado con honores académicos)  
+📌 Técnico en Desarrollo y Administración de Aplicaciones Informáticas *(Graduado con honores, 2023)*  
 
 ---
 
-## 📫 Contacto
-
-- 📧 Email: [alexandermarizansoriano@gmail.com](mailto:alexandermarizansoriano@gmail.com)
-- 📱 Teléfono: 829-315-8026
-- 📍 Ubicación: El Almirante, Calle Luis Lizardo #12
+## 🌟 Habilidades Clave  
+| Técnicas | Blandas |  
+|----------|---------|  
+| ✅ Arquitectura Backend | 🗣️ Comunicación efectiva |  
+| ✅ APIs y Bases de Datos | 👥 Trabajo en equipo |  
+| ✅ Desarrollo Multiplataforma | ⏱️ Gestión del tiempo |  
+| ✅ Control de Versiones (Git) | 🔍 Atención al detalle |  
 
 ---
 
-## 💡 Acerca de mí
+## 📬 Contacto  
+📧 **Email:** [alexandermarizansoriano@gmail.com](mailto:alexandermarizansoriano@gmail.com)  
+📱 **Teléfono:** 829-315-8026  
+📍 **Ubicación:** Santo Domingo Este, República Dominicana  
+🔗 **GitHub:** [TuUsuarioGitHub](https://github.com/TuUsuarioGitHub)  
 
-Soy una persona proactiva, que sabe trabajar en equipo y puede lidiar con situaciones de estrés. Tengo un buen conocimiento de bases de datos y desarrollo web, con muchas ganas de seguir aprendiendo y mejorando mis habilidades.
-
-"El éxito es la suma de pequeños esfuerzos repetidos día tras día." - Robert Collier
+*"El software es un arte donde la lógica y la creatividad se encuentran"*  
