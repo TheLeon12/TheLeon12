@@ -32,7 +32,7 @@ Desarrollador de software con experiencia en backend (C#, PHP) y administración
 
 ## 🎓 Formación  
 **Pontificia Universidad Católica Madre y Maestra**  
-📌 Técnico en Desarrollo de Aplicaciones Multiplataforma *(Cursando 4to cuatrimestre)*  
+📌 Técnico en Desarrollo de Aplicaciones Multiplataforma *(Cursando 6to cuatrimestre)*  
 
 **Liceo Técnico Manuel Del Cabral**  
 📌 Técnico en Desarrollo y Administración de Aplicaciones Informáticas *(Graduado con honores, 2023)*  
