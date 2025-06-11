@@ -8,9 +8,9 @@ Desarrollador de software con experiencia en backend (C#, PHP) y administración
 ## 🛠️ Stack Tecnológico
 
 **🔧 Lenguajes:**  
-- JavaScript (Intermedio) | PHP (Intermedio)  
-- C# (Básico) | Python (Básico)  
-- ASP.NET (Básico)  
+- JavaScript | PHP 
+- C# | Python 
+- ASP.NET  
 
 **🗃️ Bases de Datos:**  
 - **SQL:** Microsoft SQL Server, MySQL  
